@@ -8,4 +8,6 @@ $ pip3 install psutil
 
 For other OS or Linux version, visit : https://github.com/giampaolo/psutil/blob/master/INSTALL.rst
 
+To test installation:
 
+$ python3 -m psutil.tests
